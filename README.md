@@ -14,6 +14,7 @@ Google
 • Google Business Intelligence Professional Certificate 
 
 University of Virginia - Project Management
+
 • Fundamentals of Project Planning and Management 
 
 
