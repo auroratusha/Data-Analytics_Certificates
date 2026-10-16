@@ -17,6 +17,7 @@ Forage - Virtual Job Simulations
 
 The following virtual experience were completed through Forage as part of my professional development.
 They provide exposure to simulated workplace tasks and are not employment experiences.
+
 • BCG X - Introduction to Data for Decision Makers 
 
 • Deloitte - Data Analytics 
