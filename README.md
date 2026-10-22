@@ -31,6 +31,8 @@ They provide exposure to simulated workplace tasks and are not employment experi
 
 • KPMG - Career Catalyst: Advisory
 
+• BCG - Data Science Job Simulation
+
 
 
 
